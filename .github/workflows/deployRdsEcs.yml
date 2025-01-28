@@ -20,7 +20,7 @@ jobs:
   deployment:
     name: Deployment
     runs-on: ubuntu-22.04
-    enviroment: develop
+    environment: develop
     defaults: 
       run:
         working-directory: ./backend_rds
