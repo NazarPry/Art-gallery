@@ -59,7 +59,7 @@ jobs:
           aws ecs describe-task-definition \
           --task-definition $ECS_TASK_DEFINITION \
           --query taskDefinition \
-          --region us-east-1 > task-definition.json
+          --region us-east-1 > ../task-definition.json
 
       - name: Fill in the new image ID in ECS task definition
         id: task-def
