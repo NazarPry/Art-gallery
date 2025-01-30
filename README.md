@@ -38,19 +38,6 @@ The platform utilizes PostgreSQL for database management and Redis for caching, 
   - `requirements.txt`: Lists frontend dependencies.
   - `frontend/`: Contains configuration files, routing, views, and templates for the frontend interface.
 
-
-## Lifehacks
-
-**Use ChatGPT Everywhere**
-
-**But don't ask it to write the code or solutions for you.**
-
-Initially, use it to understand the diagram, all the interconnections on it, and why everything is arranged this way.
-
-Next, use it when taking courses to find the information you need for the project's implementation. Use it here to deepen your understanding, create more examples and analogies. Break concepts into the simplest levels of abstraction and show maximum creativity when working with it.
-
-Refer back to the course we took initially (about ChatGPT), recall the methods and strategies of prompts, and use them. Your main task is not just to implement the project but to learn how to break down new information into the simplest pieces with ChatGPT and build understanding as quickly as possible.
-
 ## Deployment Flow
 
 ### Local Testing
@@ -78,7 +65,7 @@ Refer back to the course we took initially (about ChatGPT), recall the methods a
 ### Step 1: Cloning the Repository
 Clone the repository to your local machine and navigate to the project directory:
 ```bash
-git clone https://github.com/THE-GAME-DEVOPS/art-gallery.git
+git clone https://github.com/NazarPry/Art-gallery.git
 cd art-gallery
 ```
 
